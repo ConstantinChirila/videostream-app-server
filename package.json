@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Socket.io server for providing a socket connection",
+  "main": "index.js",
+  "author": "Constantin Chirila",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
